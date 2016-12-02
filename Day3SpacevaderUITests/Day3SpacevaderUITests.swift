@@ -2,8 +2,8 @@
 //  Day3SpacevaderUITests.swift
 //  Day3SpacevaderUITests
 //
-//  Created by iD Student on 6/22/16.
-//  Copyright © 2016 iD Student. All rights reserved.
+//  Created by iD Student on 10/20/16.
+//  Copyright © 2016 Santiago Castaño. All rights reserved.
 //
 
 import XCTest
